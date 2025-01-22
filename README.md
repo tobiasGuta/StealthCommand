@@ -11,7 +11,7 @@ https://github.com/tobiasGuta/StealthCommand.git
 ```
 
 ```bash
-cd SteatlhCommand.git
+cd SteatlhCommand
 ```
 
 Just a heads-up: You'll need to transfer this file to the computer you want to control and install the "setproctitle" module to rename the process.
