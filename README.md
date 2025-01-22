@@ -18,6 +18,8 @@ Just a heads-up: You'll need to transfer this file to the computer you want to c
 
 Note: Feel free to choose any name for the process.
 
+## Use
+
 ```bash
 ./stealthcommand.py
 ```
